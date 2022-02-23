@@ -1,6 +1,6 @@
-import "fmt"
-
 package main
+
+import "fmt"
 
 func main(){
  fmt.Println(Soma(1,2))
