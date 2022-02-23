@@ -1,5 +1,7 @@
 package main
 
+import "testing"
+
 func testSoma(t *testing.T) {
 	  total:= Soma(1,2)
     if total != 3 {
